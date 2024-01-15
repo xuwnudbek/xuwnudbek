@@ -8,4 +8,4 @@
 - 💬 Ask me about FLUTTER
 - 📫 How to reach me: It is impossible
 - 😄 Magic words: INSHALLAH, Everything will be OK
-- ⚡ Fun fact: 🧑‍💻 Flutter Mobile | KIUF university | Handsome
+- ⚡ Fun fact: 🧑‍💻 Flutter Mobile | KIUF university in Fergana | Handsome
