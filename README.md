@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on BEKORCHILIK MCHJ
@@ -10,4 +9,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: It is impossible
 - 😄 Magic words: INSHALLAH, Everything will be OK
 - ⚡ Fun fact: 🧑‍💻 Flutter Mobile | KIUF university | Handsome
--->
