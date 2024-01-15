@@ -1,6 +1,6 @@
-### Hi there 👋
+### Assalamu alaykum my dear 👋
 
-Here are some ideas to get you started:
+🧑🏻‍💻 Mashetta men haqimda bir ekta ma'lumotlar bor:
 
 - 🔭 I’m currently working on BEKORCHILIK MCHJ
 - 🌱 I’m currently learning LIVE (I am improving my life experience)
