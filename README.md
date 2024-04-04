@@ -9,4 +9,4 @@
 - 📫 How to reach me: It is impossible
 - 😄 Magic words: INSHALLAH, Everything will be OK
 - ⚡ Fun fact: 🧑‍💻 Flutter Mobile | KIUF university in Fergana | Handsome
-  [https://raw.githubusercontent.com/UsamaSarwar/flutter/main/pub/telegram/assets/contribution.svg]
+  ![ASDASDHASDIASOHD](https://raw.githubusercontent.com/UsamaSarwar/flutter/main/pub/telegram/assets/contribution.svg)
