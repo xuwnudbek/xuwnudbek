@@ -1,7 +1,5 @@
 ### Assalamu alaykum, my dear 👋
 
-🧑🏻‍💻 Mashetta men haqimda bir ekta ma'lumotlar bor:
-
 - 🔭 I’m currently working on **VIZZANO MCHJ**
 - 📫 How to reach me: **impossible**
 - 😄 Magic words: **ALHAMDULILLAH**
