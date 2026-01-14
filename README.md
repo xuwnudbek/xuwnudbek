@@ -39,8 +39,8 @@
 
 ## 📂 Loyihalar
 
-🔹 **Xazinak** — Quotes app (Flutter)  
-🔹 **Pazanda** — Pazandalar uchun mobil ilova
+🔹 **Xazinak** — Quotes app (Flutter)<br/>
+🔹 **Pazanda** — Pazandalar uchun mobil ilova<br/>
 🔹 **GreenPay** — Tabiatni asrash loyihasi (Backend + Reja + Analitika)
 
 > Har bir loyiha — bu tajriba.
