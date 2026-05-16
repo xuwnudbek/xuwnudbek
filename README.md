@@ -1,66 +1,34 @@
-# 👋 Assalomu alaykum, men Xushnudbek Abdusamatov
+<div align="center">
 
-💻 **Software Developer**  
-🚀 Flutter & Backend yo‘nalishida rivojlanayapman  
-🔥 Clean code, real loyihalar va doimiy o‘sish tarafdoriman
+# TOG'A ⚡
 
----
+### C# Developer • Backend Engineer • Future Founder
 
-## 🧠 Men haqimda
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=C%23+Developer;ASP.NET+Core+Engineer;Backend+Enthusiast;Building+Scalable+Systems;Future+Tech+Founder" />
 
-- 📱 **Flutter Developer** — mobil ilovalar yarataman
-- ⚙️ **Backend** — ASP.NET Core & EF Core bilan ishlayman
-- 🗄️ **Database** — SQLite, PostgreSQL, SQL asoslari
-- 🧩 Arxitektura: Repository Pattern, Clean Architecture
-- 🌱 Hozir: **Backend + Flutter Fullstack** bo‘lish yo‘lida
+</div>
 
 ---
 
-## 🛠 Texnologiyalar
+## 🧠 About Me
 
-### 🚀 Asosiy stack
-- **Dart / Flutter**
-- **C# / ASP.NET Core**
-- **Entity Framework Core**
-- **REST API**
+```csharp
+public class Developer
+{
+    public string Name => "TOG'A";
 
-### 🗄️ Database
-- SQLite
-- PostgreSQL
-- SQL fundamentals
+    public string Role => "C# Developer";
 
-### 🧰 Tools
-- Git & GitHub
-- JetBrains Rider
-- Postman
-- Linux / Windows
+    public string[] Skills =>
+    [
+        "C#",
+        "ASP.NET Core",
+        "Entity Framework Core",
+        "PostgreSQL",
+        "MongoDB",
+        "REST APIs"
+    ];
 
----
-
-## 📂 Loyihalar
-
-🔹 **Xazinak** — Quotes app (Flutter)<br/>
-🔹 **Pazanda** — Pazandalar uchun mobil ilova<br/>
-🔹 **GreenPay** — Tabiatni asrash loyihasi (Backend + Reja + Analitika)
-
-> Har bir loyiha — bu tajriba.
-
----
-
-## 📈 Maqsadlarim
-
-- ✅ Clean code yozish
-- ✅ Real loyihalar qilish
-- ✅ Open Source’da ishtirok etish
-- ✅ Strong backend + Flutter developer bo‘lish
-
----
-
-## 📫 Aloqa
-
-- 💬 GitHub Issues / Discussions
-- 🌍 O‘zbekiston
-
----
-
-> ⚡ *"Har kuni ozgina bo‘lsa ham kuchliroq bo‘l."*
+    public string Goal =>
+        "Build powerful systems and create my own company.";
+}
